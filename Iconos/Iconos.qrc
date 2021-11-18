@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="Iconos">
+    <file>advertencia.png</file>
+    <file>agregar.png</file>
+    <file>anterior.png</file>
+    <file>apartamento.png</file>
+    <file>buscar.png</file>
+    <file>calendario.png</file>
+    <file>cancelar.png</file>
+    <file>cerrar.png</file>
+    <file>cerrar_sesion.png</file>
+    <file>configuracion.png</file>
+    <file>confirmar.png</file>
+    <file>eliminar.png</file>
+    <file>imprimir.png</file>
+    <file>logo.png</file>
+    <file>menu.png</file>
+    <file>modificar.png</file>
+    <file>principal.png</file>
+    <file>reserva.png</file>
+    <file>seleccionar.png</file>
+    <file>seleccionar-derecha.png</file>
+    <file>seleccionar-izquierda.png</file>
+    <file>usuario.png</file>
+  </qresource>
+</RCC>
