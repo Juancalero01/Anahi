@@ -456,7 +456,7 @@ class Main(QMainWindow):
             seleccion = [dato.text() for dato in seleccion]
             self.ui.tblClientes.clearSelection()
             test = QMessageBox.question(
-                self, "Alerta", f"¿Está seguro de elimar a {seleccion[2]} {seleccion[1]}?", QMessageBox.Yes | QMessageBox.No)
+                self, "Alerta", f"¿Está seguro de eliminar a {seleccion[2]} {seleccion[1]}?", QMessageBox.Yes | QMessageBox.No)
             if test == QMessageBox.Yes:
                 self.cliente.eliminarCliente(seleccion[0])
                 self.mostrarTablaCliente()
