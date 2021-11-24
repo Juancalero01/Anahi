@@ -1,5 +1,3 @@
-
-
 from Iconos import iconos
 from PyQt5 import QtCore, QtGui, QtWidgets
 
